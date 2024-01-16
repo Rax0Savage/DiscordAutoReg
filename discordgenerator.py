@@ -1,6 +1,3 @@
-import undetected_chromedriver as uc
-uc.install()
-
 import os
 import time 
 import requests
